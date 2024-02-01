@@ -1,0 +1,3 @@
+[submodule "subtestdir"]
+	path = subtestdir
+	url = https://github.com/dbarnett/python-helloworld.git
